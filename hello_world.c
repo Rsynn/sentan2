@@ -6,4 +6,4 @@ main(){
 	puts("I am branch2nd.");
 	puts("shiyu18 ga hennsyu shitayo!")
 }
-##バカ
+//うんち!w
